@@ -1,4 +1,4 @@
-# MusicLikenessPredictionUsingLinnearRegression
+# Spotify Top 100 Analysis
  Segmenting Music Data from Spotify API to predict how likely a song is a hit
 
  ```bash
